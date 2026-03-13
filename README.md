@@ -69,7 +69,7 @@ TalkBot-AI-Chatbot/
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/talkbot-ai-chatbot.git
+git clone https://github.com/mhd-jisshadd/talkbot-ai-chatbot.git
 
 2. Navigate to the project folder
 
